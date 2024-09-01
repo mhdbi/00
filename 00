@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<meta name="apple-mobile-web-app-title" content="Short name">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/icon.png" />
+
+  <meta charset="UTF-8" />
+</head>
+<body>
+
+
+ 
+    <iframe src="https://script.google.com/a/~/macros/s/AKfycbxCWYpLuHurZgCjtNNBXXxQHt1bWk4I2zOjDGZn31EBIvCropxIhKvwFKAslak8qsBu/exec"
+     frameborder="0" style="position:fixed;top:0px;left:0px;right:0px;bottom:0px" height="99%" width="99%"></iframe>
+    
+    
+
+</body>
+
+</html>
